@@ -10,7 +10,7 @@ How to use:
 1. Download the project
 2. Run pom.xml (mvn clean package)
 3. Run ResfulWebServicesApplication.java
-3. Default port is set to http://localhost:8080/
+3. Port for app is set to http://localhost:8080/
 
 4. Create palindrome:
 http://localhost:8080/string-palindrome/createpal/{insert_string}
